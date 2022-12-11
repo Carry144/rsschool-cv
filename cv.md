@@ -8,7 +8,7 @@
 + **My [GitHub](https://github.com/Carry144)**
 
 # About me #
-I am 16 years old, studying at school. My goal is to learn programming languages. I think that my life will change only this way.
+I am 16 years old, studying at school. My goal is to learn programming languages. I think that my life will change only this way.:)
 
 + **My strengths:**
 
